@@ -13,11 +13,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
  </div>
 
-<div align="center">
-<img  src="https://github.com/user-attachments/assets/1ed82c65-d57f-4379-9784-c9065b971ba9"  width="20" height="20" >
-<img  src="https://github.com/user-attachments/assets/5aaba004-49f3-433c-81d1-f48de99750d7"  width="20" height="20" >
-</div>
-
  __________________________________________________________________________________________________________________________________________
  
 ###  <p align="center" >${{\color{darkblue}\LARGE{\textsf{ 🌐 About\ me\ \}}}}\$ </p> 
