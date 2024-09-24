@@ -80,7 +80,9 @@ ________________________________________
 
 <p>Thank you for visiting! 👩‍💻
 <div align="center">
-  
+
+<br />
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 </div>
