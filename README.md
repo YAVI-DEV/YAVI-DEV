@@ -62,17 +62,19 @@ ________________________________________
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=h&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+________________________________________
 ### <p style="color:blue"> ${{\color{darkblue}\LARGE{\textsf{ 🌱 \ What \ I'm \ Seeking}}}}\$ </p>     
 
 <p>Beginner in this field, my goal is to be involved in an innovative project that incorporates process automation to more effectively meet the expectations of the business sector.</p>
 <p>I'm also interested in website development involving a focus on ux/ui design.</p>
 <em><p>Feel free to check out my upcoming projects in this repository.</p></em>
+
 ________________________________________
 
 ### <p style="color:blue"> ${{\color{darkblue}\LARGE{\textsf{ 📫\ Connect \  with \ me:}}}}\$ </p>   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yanet-villa) 
-<br>
+<br />
 :email: <span>ya.vi.dev.pro@gmail.com</span>
 ________________________________________
 
@@ -82,3 +84,4 @@ ________________________________________
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 </div>
+<br />
