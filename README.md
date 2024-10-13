@@ -21,7 +21,7 @@
 
 <p  align="justify"> :bulb: Through intensive training and hands-on projects, I’ve developed capabilities in both <strong>front-end and back-end</strong> development, and I’m ready to take on new technical challenges with a high level of adaptability.</p>
 
-<p  align="justify"> :orange_book: I passionate about building innovative solutions and motivated by continuous learning.</p>
+<p  align="justify"> :orange_book: I am passionate about building innovative solutions and motivated by continuous learning.</p>
 
 ________________________________________
 
@@ -60,7 +60,7 @@ ________________________________________
 ________________________________________
 ### <p style="color:blue"> ${{\color{darkblue}\LARGE{\textsf{ 🌱 \ What \ I'm \ Seeking}}}}\$ </p>     
 
-<p>Beginner in this field, my goal is to be involved in an innovative project that incorporates process automation to more effectively meet the expectations of the business sector.</p>
+<p>As a junior in this field, my goal is to be involved in an innovative project that incorporates process automation to more effectively meet the expectations of the business sector.</p>
 <p>I'm also interested in website development involving a focus on ux/ui design.</p>
 <em><p>Feel free to check out my upcoming projects in this repository.</p></em>
 
