@@ -7,8 +7,10 @@
   
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
  </div>
- __________________________________________________________________________________________________________________________________________
- 
+
+
+________________________________________
+
 ###  <p align="center" >${{\color{darkblue}\LARGE{\textsf{ 🌐 About\ me\ \}}}}\$ </p> 
 
 <p align="justify">:mortar_board: After a rich and diversified background in international business management, I decided to specialize in programming in order to improve my day-to-day workflows. </p>
